@@ -1,4 +1,4 @@
-### Hi there 👋
+## Welcome to my Github profile ^^
 
 <!--
 **angusleung100/angusleung100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Languages: English, French, Cantonese
+- Repositories Coded In: PHP, Python, C++, Java, R, JavaScript
+
+### Interested in hiring me?
+I'm currently looking for a summer internship either in Canada or Hong Kong. I like to focus on finance and data in general, but also enjoy aerospace.
+
+Linkedin -> [Angus Leung](https://www.linkedin.com/in/angus-leung/)
