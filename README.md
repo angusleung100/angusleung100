@@ -18,7 +18,18 @@ Here are some ideas to get you started:
 - Languages: English, French, Cantonese
 - Repositories Coded In: PHP, Python, C++, Java, R, JavaScript
 
-### Interested in hiring me?
-I'm currently looking for a summer internship either in Canada or Hong Kong. I like to focus on finance and data in general, but also enjoy aerospace.
+### Interests
+- Data mining and analysis
+- Finance and capital markets
+- Aerospace defence
+- Blockchain and fintech
 
+### Interested in hiring me?
+I'm currently looking for a summer internship either in Canada or Hong Kong. If your firm has summer positions available, you can connect with me on LinkedIn and say hello.
+
+### Links
 Linkedin -> [Angus Leung](https://www.linkedin.com/in/angus-leung/)
+Twitter -> [@angusleung100](https://twitter.com/angusleung100)
+Twitch -> [a_leung100](https://www.twitch.tv/a_leung100)
+Youtube -> [Angus Leung](https://www.youtube.com/channel/UCm6_EGKgsXrwnnhWv3Zu_Ug)
+
