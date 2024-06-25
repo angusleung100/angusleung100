@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Personal finance
 
 ### Interested in hiring me?
-I'm currently looking for a summer internship either in Canada or Hong Kong. If your firm has summer positions available, you can connect with me on LinkedIn and say hello.
+I'm currently looking for a new grad or junior full-time position either in Canada or Hong Kong. If your firm has these positions available, you can connect with me on LinkedIn and say hello.
 
 ### Links
 - Linkedin -> [Angus Leung](https://www.linkedin.com/in/angus-leung/)
