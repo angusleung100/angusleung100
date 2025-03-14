@@ -1,4 +1,27 @@
-## Welcome to my Github profile ^^
+# Hello, welcome to my Github profile 🖥️
+[![angusleung100 X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/angusleung100)
+[![angusleung100 LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinlogoColor=white)](https://www.linkedin.com/in/angus-leung/)
+[![angusleung100 Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://angusleung100.substack.com/)
+[![angusleung100 Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/angusleung100)
+[![angusleung100 HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co/angusleung100/)
+[![angusleung100 Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@angusleung100)
+[![angusleung100 HuggingFace](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/angusleung100ttv)
+
+## About Me
+- Currently working on an MMO data aggregator (Yet again)
+- Also exploring AI realism
+- Hope to ship cool things that people will enjoy using
+- Check out my curated list of free tiers and dev tools to help kickstart projects [here](https://medium.com/@angusleung100/free-web-hosting-and-other-hosting-providers-list-technology-is-key-af379f171609)
+
+## Interests
+- Data mining and analysis
+- Fine-tuning diffusion and language models
+- Economics and financial markets
+- MMO game tools
+
+### Interested in working with me?
+I'm currently looking for a full-time new grad / junior position. If your firm has these positions available, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angus-leung/) and say hello!
+
 
 <!--
 **angusleung100/angusleung100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,24 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- **Languages:** English, French, Cantonese
-- **Repositories Coded In:** PHP, Python, C++, Java, R, JavaScript
-
-### Interests
-- Data mining and analysis
-- Finance and capital markets
-- APAC economics
-- Algorithmic trading and decision making with Machine Learning
-- Blockchain and fintech
-- Personal finance
-
-### Interested in hiring me?
-I'm currently looking for a new grad or junior full-time position either in Canada or Hong Kong. If your firm has these positions available, you can connect with me on [LinkedIn](https://www.linkedin.com/in/angus-leung/) and say hello.
-
-### Links
-- **Linkedin** -> [Angus Leung](https://www.linkedin.com/in/angus-leung/)
-- **Twitter** -> [@angusleung100](https://twitter.com/angusleung100)
-- **Twitch** -> [angusleung100TTV](https://www.twitch.tv/angusleung100ttv)
-- **Youtube** -> [Angus Leung](https://www.youtube.com/channel/UCm6_EGKgsXrwnnhWv3Zu_Ug)
-
