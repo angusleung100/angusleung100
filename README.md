@@ -8,7 +8,7 @@
 [![angusleung100 HuggingFace](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/angusleung100ttv)
 
 ## About Me
-- Currently working on a data aggregation for games I play
+- Currently working on a data aggregator for an MMO I play
 - Also exploring AI realism
 - Hope to ship cool things that people will enjoy using
 - Check out my curated list of free tiers and dev tools to help kickstart projects [here](https://medium.com/@angusleung100/free-web-hosting-and-other-hosting-providers-list-technology-is-key-af379f171609)
